@@ -1,0 +1,19 @@
+## 📂 Dataset
+
+The cervical cell images used in this project were obtained from the
+**Cervical Cell Image Database** available on Zenodo.
+
+🔗 **Dataset:**  
+https://zenodo.org/records/20149084
+
+The dataset contains cervical cell microscopy images used for
+deep learning-based cervical cell classification.
+
+For this project, the relevant classes were organized into:
+
+- 🟢 Normal
+- 🟡 Moderate Dysplastic
+- 🔴 Severe Dysplastic
+
+The final dataset was balanced to 292 images per class,
+resulting in 876 images used for the classification experiment.
